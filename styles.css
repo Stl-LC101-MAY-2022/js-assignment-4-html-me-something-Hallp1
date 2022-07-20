@@ -1,1 +1,58 @@
 /* Write your CSS here! */
+body {
+    background-color: lightblue;
+    margin: 8px;
+    display: block;
+  }
+
+  p{
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+
+  #testP {
+    color: green;
+  }
+
+  p.funParagraph{
+    color: purple;
+  }
+ 
+  
+  
+
+  h1 {
+    margin-left: 20px;
+    text-align: center;
+    text-shadow: 2px 2px white;
+    text-decoration: underline;
+  }
+
+  #mainHeading {
+    color: red;
+  }
+
+  h3 {
+    text-align: center;
+    color: navy;
+  }
+
+  img {
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-color: navy;
+  }
+
+  ul {
+    text-align: center;
+    list-style-position: inside;
+  }
+
+  footer {
+    margin-top: 60px;
+    text-align: center;
+  }

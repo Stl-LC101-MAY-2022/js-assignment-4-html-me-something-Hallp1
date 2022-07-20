@@ -4,11 +4,14 @@ body {
     margin: 8px;
     display: block;
   }
-
+  header {
+    padding: 1.875em 0;
+    background-color: red;
+}
   p{
     margin-left: 100px;
     margin-right: 100px;
-  }
+    }
 
   #testP {
     color: green;
